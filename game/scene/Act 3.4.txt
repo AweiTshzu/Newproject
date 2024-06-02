@@ -1,0 +1,10 @@
+changeBg:;
+changeBg:Village with bird.png;
+miniAvatar:Elf icon.png;
+Elias:Now let's talk about plans ! |If you are going to do something,|you can say 'Jag kommer att xxx'  -fontSize=default;
+miniAvatar:none;
+You:After going home, I'm going to go shopping, work and listen to music !  -fontSize=default;
+miniAvatar:Elf icon.png;
+Elias:That sounds like a really nice plan! |So ,to go shopping is 'Handla' , to work is 'Arbeta' |and to listen to music is 'Lyssna på musik'  -fontSize=default;
+Elias:Now, how will you say 'I'm going to go shopping, work and listen to music ' in our language?  -fontSize=default;
+choose:Jag kommer att arbeta, lyssna på musik och handla.:Wrong Answer shop work and listen.txt|Jag kommer att lyssna på musik, arbeta och handla.:Wrong Answer shop work and listen.txt|Jag kommer att handla, arbeta och lyssna på musik.:Right Answer shop work and listen.txt;

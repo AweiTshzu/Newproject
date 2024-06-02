@@ -1,0 +1,4 @@
+miniAvatar:Elf icon.png;
+bgm:Through the ArborWAV-.wav;
+:You then point at the bird and child,|trying to introduce them to Elias:  -fontSize=default;
+choose:Det är Fågel , det är Barn:Right answer Bird and Child.txt|Det är Barn,  det är Fågel :Wrong answer bird and child.txt;

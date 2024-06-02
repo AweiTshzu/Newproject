@@ -1,0 +1,4 @@
+miniAvatar:Elf icon.png;
+Elias:Oops, the right answer should be |Jag kommer att handla, arbeta och lyssna på musik. -fontSize=default;
+Elias:Don't worry , there is only one more challenge now ! |You can definitely pass the final challange and go home!  -fontSize=default;
+changeScene:Act 4.0.txt

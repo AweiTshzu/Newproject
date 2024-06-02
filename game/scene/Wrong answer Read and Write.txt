@@ -1,0 +1,4 @@
+miniAvatar:Elf icon.png;
+Elias:Oh! 'I like to read and write' should be 'Jag gillar att Läsa och Skriva!' | 'I like to travel and sleep' should be 'Jag gillar att Resa och Sova!  -fontSize=default;
+Don't worry ! You have learnt a lot so far !  -fontSize=default;
+changeScene:Act3.3.txt

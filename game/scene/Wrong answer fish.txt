@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:The right sentence for calling that fish is |Det är Fisk! Don't worry , you can do better next time!  -fontSize=default;
+changeScene:Act2.5.txt

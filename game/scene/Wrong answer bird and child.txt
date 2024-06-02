@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:Oh, the right answer for that is Det är Fågel och (and) Det är Barn|Don't worry you can definitely do it next time!  -fontSize=default;
+changeScene:Act 2.6.txt

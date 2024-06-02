@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:That's right ! You did well !  -fontSize=default;
+changeScene:Act2.5.txt

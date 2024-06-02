@@ -1,0 +1,2 @@
+You:Jag kommer att  -fontSize=default;
+choose:Arbeta:Act 4.3.txt|Sova:Act 4.3.txt|Handla:Act 4.3.txt|Leka:Act 4.3.txt;

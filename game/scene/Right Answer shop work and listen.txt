@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:Amazing ! Now you are ready for the final challenge!  -fontSize=default;
+changeScene:Act 4.0.txt

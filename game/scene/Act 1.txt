@@ -1,0 +1,23 @@
+bgm:Through the ArborWAV-.wav;
+intro:Scene 1: |Disoriented Arrival -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+changeBg:Foggy Forest night.jpg;
+:You look around and it seems that you have been teleported to an unknown forest. |You walk around in the forest and find a guide board -fontSize=default;
+:; -fontSize=default;
+changeBg:'Blooma skog'' written on a indication board.png;
+:There are two words written on the board|Blooma Skog ,  What does that mean?  -fontSize=default;
+？？？:Hej,  jag heter Elias ! Vad heter du?  -fontSize=default;
+changeFigure:Alf.png -id=Elias;
+changeScene:选择场景文件;
+You:I don't understand...  -fontSize=default;
+Elias:Oh sorry , I just said my name is Elias. I am an Älva ,oh that means elf. | What is your name?   -fontSize=default;
+You:I am Alex, where is this place? What does Blooma Skog mean?  -fontSize=default;
+miniAvatar:Elf icon.png;
+Elias:Nice to meet you Alex！ Blooma means flower and skog means forest! |As you can see , there are many flowers in this forest,  -fontSize=default;
+Elias:Alex, it seems that you have been accidentally teleported to our 'By' (village)|If you want to gå hem (go home) , you need to pass a challange  -fontSize=default;
+Elias:The challange is to learn the language of Älva in this 'By'|Then you need to talk to the Älva by the portal in our language|Don't worry , I will help you learn the language!  -fontSize=default;
+Elias:First, let me take you to our 'Hus' and 'Ha' some 'vatten och mat' |Hus is house , 'Ha' is have. |Vatten is water and Mat means food!  -fontSize=default;
+changeFigure: -next -id=Elias;
+miniAvatar:none;
+setTextbox:hide;
+setTransition: -target= -enter=enter -exit=exit;
+changeScene:Act 2.txt

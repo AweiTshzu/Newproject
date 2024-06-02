@@ -1,0 +1,10 @@
+changeBg:Village bird-eye angle.png;
+miniAvatar:Elf icon.png;
+Elias:Now tell me about your hobbies! |Vad gillar du att? Oh it means what do you like to ? -fontSize=default;
+miniAvatar:none;
+You:I like to read and write! I also like to travel!  I like to sleep at weekends!  -fontSize=default;
+miniAvatar:Elf icon.png;
+Elias:To read is 'Läsa' , to write is 'Skriva'|To travel is 'Resa' and to sleep is 'Sova' , 'and' is 'och' (sounds like awk in awkward)|Now tell me what you like to do in the älva language!  -fontSize=default;
+miniAvatar:none;
+You:So ' I like to read and write ' | :'I like to travel and sleep' should be ... -fontSize=default;
+choose:Jag gillar att läsa och skriva! Jag gillar att resa och sova ! :Right Answer read and write.txt|Jag gillar att resa och sova ! Jag gillar att läsa och skriva! :Wrong answer Read and Write.txt;

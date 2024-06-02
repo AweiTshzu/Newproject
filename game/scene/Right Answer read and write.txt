@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:Bra ! Right!  -fontSize=default;
+changeScene:Act3.3.txt

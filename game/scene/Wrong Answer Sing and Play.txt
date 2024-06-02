@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:Oh sjunga actually means sing and leka means play, |don't worry , you won't make the same mistake next time!  -fontSize=default;
+changeScene:Act 3.2.txt

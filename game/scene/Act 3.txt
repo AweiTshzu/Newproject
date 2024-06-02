@@ -1,0 +1,13 @@
+bgm:Through the ArborWAV-.wav;
+intro:Act 3 |Diverse Discoveries -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+miniAvatar:Elf icon.png;
+Elias:Now I willl teach how to describe your daily life and actions |Follow me, I'll show you the life of our villagers  -fontSize=default;
+miniAvatar:none;
+:You follow Elias to see the daily life of villagers  -fontSize=default;
+miniAvatar:none;
+changeBg:Three elf kids.png;
+You see three kids running towards you:One begins runs and shouts :'Jag gillar att springa'|One begins to sing and says： ’Jag gillar att sjunga!‘|One begins to play his toys and says: ’Jag gillar att leka!'  -fontSize=default;
+miniAvatar:Elf icon.png;
+Elias:If you want to say that you like to do something|You can say 'Jag gillar att XXX'| Now guess what the kids are saying !  -fontSize=default;
+Elias:What does 'Jag gillar att springa' mean?  -fontSize=default;
+choose:I like to sing! :Wrong answer run.txt|I like to run! :Right answer run .txt|I like to play ! :Wrong answer run.txt;

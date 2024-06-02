@@ -1,0 +1,9 @@
+You:Kan jag |Kan jag gå hem nu? -fontSize=default;
+älva of portal :Du har lärt dig väl. Hejdå, Alex. -fontSize=default;
+changeBg:Moonlight lake forest.png;
+changeFigure:Elf icon.png;
+Elias:Congratulations! You have completed the challenge ! |You can go home now!  -fontSize=default;
+You:Tack så mycket Elias. |Will we meet again?  -fontSize=default;
+Elias:...|Jag önskar verkligen att vi kan träffas igen en dag. |Besök oss igen. Glöm inte mig... Vi älskar dig.  -fontSize=default;
+You:Hejdå!  -fontSize=default;
+end;

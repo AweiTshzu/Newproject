@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:Opps, the right answer should be |Jag vill dricka vatten och äta mat! |You can do better next time!  -fontSize=default;
+changeScene:Act 3.4.txt

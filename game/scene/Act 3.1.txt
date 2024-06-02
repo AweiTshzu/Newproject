@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:Now what does 'Jag gillar att sjunga' and 'jag gillar att leka' mean respectively ? -fontSize=default;
+choose:I like to sing!  I like to play! :Right Answer Sing and Play.txt|I like to play! I like to sing! :Wrong Answer Sing and Play.txt;

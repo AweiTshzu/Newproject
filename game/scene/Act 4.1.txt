@@ -1,0 +1,2 @@
+You:Jag gillar att  -fontSize=default;
+choose:Sjunga:Act 4.2.txt|Resa:Act 4.2.txt|Skriva:Act 4.2.txt|Läsa :Act 4.2.txt;

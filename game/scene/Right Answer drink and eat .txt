@@ -1,0 +1,3 @@
+miniAvatar:Elf icon.png;
+Elias:Fantastic! Now let's move on!  -fontSize=default;
+changeScene:Act 3.4.txt
