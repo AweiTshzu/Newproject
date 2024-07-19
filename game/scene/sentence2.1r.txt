@@ -1,0 +1,2 @@
+Yes, now it is clear  -fontSize=default;
+choose:And another sentence can be deciphered :sentence2.2.txt;

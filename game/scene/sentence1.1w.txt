@@ -1,0 +1,4 @@
+setTextbox:on;
+Wait, that doesn't look right... -fontSize=default;
+callScene:shyuaanying.txt
+changeScene:sentence1.1.txt

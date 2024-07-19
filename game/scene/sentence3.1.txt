@@ -1,0 +1,5 @@
+intro:Now the final three incomplete sentences can deciphered... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+callScene:Stone4incom.txt
+setTextbox:on;
+So what does this refer to ? |suslüsn, fusd srimia(body) beis shüünt(found), eer(but) muknia yongk (ever) fouk hweis liing(hear) dresio(this) -fontSize=default;
+choose:Winter, brother's body was found, but father will never hear this:sentence3.1w.txt|Spring, mother's body was found, but father will never hear this.:sentence3.1w.txt|Autumn, father's body was found, but mother will never hear this:sentence3.1r.txt|Summer, father's body was found, but mother will never hear this:sentence3.1w.txt;

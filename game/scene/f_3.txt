@@ -1,0 +1,8 @@
+choose:Pick up the third turtleshell:;
+This seems pretty straightforward... -fontSize=default;
+changeBg:婵娟.jpg;
+What is ‘traanjüann' ? -fontSize=default;
+setTextbox:hide;
+ -fontSize=default;
+
+choose:Cucumber:f_3w.txt|Cookie:f_3w.txt|Moon:f_3r.txt|Sun:f_3w.txt;

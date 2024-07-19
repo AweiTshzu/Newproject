@@ -1,0 +1,3 @@
+setTextbox:on;
+It seems right -fontSize=default;
+changeScene:f_2.txt

@@ -1,0 +1,5 @@
+setTextbox:hide;
+bgm:chinese-ancient-style-music-love-et11lx-155926.mp3;
+changeBg:Stone1.1acom.png;
+changeBg:Stone1.1bcom.png;
+choose:Check the next stone...:Final Sort.txt;

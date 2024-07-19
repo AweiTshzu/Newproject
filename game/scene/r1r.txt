@@ -1,0 +1,2 @@
+So it means 'autumn' since its leaves are falling down... -fontSize=default;
+changeScene:r2.txt

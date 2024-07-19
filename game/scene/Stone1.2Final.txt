@@ -1,0 +1,3 @@
+setTextbox:hide;
+bgm:ripple-chinese-ancient-style-music-romantic-love-et11lx-155927.mp3;
+changeBg:Stone1.2complete.png;

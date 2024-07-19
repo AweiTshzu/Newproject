@@ -1,0 +1,6 @@
+choose:Pick up the second one:选择场景文件;
+changeBg:朱律.jpg;
+What does 'drulüsm' mean? -fontSize=default;
+setTextbox:hide;
+
+choose:Snow:l_2w.txt|Summer:l_2r.txt|Autumn:l_2w.txt|Winter:l_2w.txt;

@@ -1,0 +1,37 @@
+bgm:171224-piano-mystery-ancient-ruins-21350.mp3;
+changeBg:00216-2649098154-dungeon, four steles with ancient scripts, ruin, one stone left, one stone right, one stone in the middle, ancient civilization,.png -next;
+？|What  is this place?  -fontSize=default;
+changeBg:00214-2649098152-dungeon, four steles with ancient scripts, ruin, one stone left, one stone right, one stone in the middle, ancient civilization,.png;
+There are four strange stones, |There are some words written on them. | it seems to be an unknown language ? -fontSize=default;
+intro:Stone1|… niaann, wokia kek gwan srusnio coong trwangm. shüaanyingn, lengkde, yüslwaan lwos, traanjüann yaos. fusd jünmia youkt beis taisü miesp, heetrus tamia? muknia beide yük chide, bings wokia fouk kek drik lai ku. traangde sriin womenia fouk youk srizinio likmians jün -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 252, 252, 1);
+choose:Check the next stone :选择场景文件;
+intro:Stone2|…niaann, fusmia drii yi srusnio shiasmians trwangm. cangliingm, fuuyaoonia henk srude, yingnia srengsdi kai. treenm, wokia yük fusmia bwo drongkzimio likmians tiaanm, hous wokia gwei jünio. wuk, wokia yük youkmia gwan cwendrangkmio yük yi kweiiwukde waisiangreenmio likmians zikmwosm. wank, fusmia gwei jünio, bings mäk henkdwode sriszinio coong jiisrism, wokd drisaisde.ia. wank, fusmia gaosbiee wokio yük muknio, tamia cii coong jün toong nas waisiangreenm. -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 252, 252, 1);
+intro: liingzeen, mouk chiaanyaosm, wokia yous jians nasio kweiiwukde waisiangreennio. tamia yük fusmia henk traangdi liaao. muknia wokio yüe, tamia gwanm -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+choose:Check the next stone :选择场景文件;
+intro:Stone3|…niaann, srusnia sik.suslüsn, fusd srimia beis shüünt, eer muknia yongk fouk hweis liing dresio -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 252, 252, 1);
+choose:Check the next stone :选择场景文件;
+intro:Stone 4|…niaann, srusnia gengs gao bik jündrulüsm, muknia youk rankp jiinio henkdwode rism, yisrengmia fouk kek dris. liaangmia geenbenk fouk likmians jün. ruuhee hweis srengcween, wokia fouk dri. -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 252, 252, 1);
+You quickly glanced at these four stones ， -fontSize=default;
+There seem to be some yellowed notes on the ground, possibly left by previous explorers. The content on them seems to correspond to the inscriptions on the stone tablets. -fontSize=default;
+setTextbox:hide;
+changeBg:B00223B-1616427376-dungeon, only four steles with ancient scripts, ruin, one stele left, one stele right, one stele in the middle,  one stele in th.png;
+;石碑出现顺序为2143
+choose:Pick up these notes :选择场景文件;
+choose:Check the note for Stone 1:选择场景文件;
+callScene:Stone2incom.txt
+setTextbox:on;
+Some translation seems to be lost... -fontSize=default;
+choose:Check the note for Stone2 :;
+callScene:Stone1.1incom.txt
+choose:Check the second part of Stone2:选择场景文件;
+callScene:Stone1.2incom.txt
+setTextbox:on;
+Still some words missing... -fontSize=default;
+choose:Check the note for Stone 3:选择场景文件;
+callScene:Stone4incom.txt
+choose:Check the note for Stone 4:选择场景文件;
+callScene:Stone3incom.txt
+setTextbox:on;
+There seem to be some scattered turtle shells on the ground nearby. They might be clues; it's worth checking them out. -fontSize=default;
+Or should I check other corners?  -fontSize=default;
+choose:Go check scattered turtle shells:f_1.txt|Go check the other corner :Q_Discovery other corner.txt;

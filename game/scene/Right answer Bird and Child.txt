@@ -1,3 +1,0 @@
-miniAvatar:Elf icon.png;
-Elias:That's right! Bra ! That means good in our language!  -fontSize=default;
-changeScene:Act 2.6.txt

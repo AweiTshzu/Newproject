@@ -1,0 +1,4 @@
+setTextbox:on;
+There seems to be a mistake... -fontSize=default;
+callScene:canglingm.txt
+changeScene:sentence1.2.txt

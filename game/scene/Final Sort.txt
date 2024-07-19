@@ -1,0 +1,2 @@
+Decipher 4 stones one by one  -fontSize=default;
+choose:Stone1:Stone2commusic.txt|Stone 2.a:Stone1.1commusic.txt|Stone 2.b:Stone1.2commusic.txt|Stone3 :Stone3commusic.txt|Stone4 :Stone4commusic.txt|All the stones have been deciphered. Arrange them in order.:FFinal Sorting.txt;

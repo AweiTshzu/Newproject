@@ -1,0 +1,4 @@
+callScene:Stone1.1incom.txt
+setTextbox:on;
+So what is this sentence referring to? |fusmia gwei jünio, bings(and) mäk(bought) henkdwode(many) sriszinio coong jiisrism(market), wokd drisaisde(favourite). -fontSize=default;
+choose:and he bought many apples from the market, my favourite:sentence3.2w.txt|and he bought many tomatoes from the market, my favourite.:sentence3.2w.txt|and he bought many persimmons from the market, my favourite:sentence3.2r.txt|and he bought many persimmons from the market, his favourite:sentence3.2w.txt;

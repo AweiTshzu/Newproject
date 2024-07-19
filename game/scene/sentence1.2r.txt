@@ -1,0 +1,2 @@
+Now it makes sense. -fontSize=default;
+choose:Continue exploring deeper into the ruins.:l_1.txt;

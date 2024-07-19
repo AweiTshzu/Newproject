@@ -1,0 +1,2 @@
+setTextbox:hide;
+changeBg:Stone1.2complete.png;

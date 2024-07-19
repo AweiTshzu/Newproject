@@ -1,0 +1,21 @@
+changeBg:none
+bgm:none
+Setting:Protag was wandering through the dense forest, his curiosity piqued by the ancient ruins he stumbled upon.
+Protag: What's this place?
+changeBg:none
+Setting:As he approaches the ruins, he feels a strange energy pulsating through the air, drawing him closer.
+choose:Investigate:;
+Setting:Protag cautiously steps into the crumbling ruins, his footsteps echoing off the stone walls.
+changeBg:none
+The walls are adorned with intricate carvings depicting scenes of a group of people circulating around a bonfire. 
+You notice they are performing an incomprehensible but occultic ritual. 
+You reach out to touch one of the carvings
+as your fingers brush against the ancient stone, you suddenly experience a [spiritual detachment].
+When the light fades, you find yourself in a bustling city unlike anything you have ever seen before.
+The architecture is otherworldly, with towering spires reaching towards the sky and strange symbols adorning every surface.
+Protag:Where... where am I?
+intro:As you speaks, the halo-like dazzle suddenly vanishes, so does the phantom.|You find yourself back in the dim ruins.|With puzzlement, you lower your head, eyes fixed on the ground, striving to figure out what you had just seen. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Out of surprise, you found a whole block with ragged edges and unrecognizable character clusters adjacent to your feet, the surface texture resembling weathered turtle shells. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+CG: a whole block with ragged edges and unrecognizable character clusters
+
+changeScene:Q_ Discover.txt

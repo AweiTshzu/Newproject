@@ -1,0 +1,5 @@
+setTextbox:on;
+No....not really correct ... -fontSize=default;
+callScene:drulyu.txt
+ -鍙ュ瓙2.2.mp3 -fontSize=default;
+changeScene:sentence2.2.txt

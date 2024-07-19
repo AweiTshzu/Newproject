@@ -1,0 +1,7 @@
+choose:Pick up the next one:选择场景文件;
+changeBg:田.jpg;
+setTextbox:on;
+It seems those plants didn't grow there naturally; otherwise, they wouldn't be so neatly arranged. -fontSize=default;
+What does 'tiaanm' mean?  -fontSize=default;
+
+choose:Soil:l_3w.txt|Pool:l_3w.txt|Earth:l_3w.txt|Field:l_3r.txt;

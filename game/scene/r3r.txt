@@ -1,0 +1,2 @@
+So it means persimmon... -fontSize=default;
+changeScene:sentence3.1.txt

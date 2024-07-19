@@ -1,0 +1,35 @@
+intro:Prologue3 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+Synopsis: The Rise of Pastspeakers – Protag’s mum and dad join the Pastspeakers
+CG: Living room. The protag’s family is having dinner. The living room is cozy, with a wooden table surrounded by four chairs. Orange sofas can be seen at the back of the scene, with a coffee table. To the further right corner is a wooden cabinet and the door. On the cabinet, there are a few fancy ornaments that look old, if not historic enough to be artifacts. There’s a weird symbol on some of them, which we’ll later find out to be the symbol of the priest.] -fontSize=default;
+
+Mom: I found a mail today. It’s from Tyr (we can replace this later with a recruiting person of them or a leader of them etc) - my father’s friend if you remember.
+Dad: Of course I do, he was very gentlemanly at our wedding and brought a nice bottle of wine.
+Mom: Oh. Well, what he said was that he works for this group, called “Pastspeakers”, who’s been working with dead languages and other ominous things. Particularly the language of Portunus, the old country, if you remember?
+Dad: Oh yes certainly, the one that disappeared and left not really much anything. Dangerous work and brave choice of him.
+Mom: Certainly. And…he’s inviting us to join him.
+Dad: Because of the recent taboos with speech?
+Mom: Yeah. He said in the letter that they call it the “Peacetalk Plague”.
+Dad: I understand that they might want help or something, and I am certainly willing to help. But why invite us?
+Mom: Guess they need more people. He said that we’ll likely be safer if we know more about it. And it’s quite well-paid now considering the current...situation.
+Protag: Will it be dangerous?
+Mom: No. Knowledge is power honey. If we know more about the Peacetalk Plague, we can better watch our mouths and be more careful and help not just us, but other people. Don’t worry.
+Protag: That sounds so hero-like.
+[Mom manages a small laugh will Dad laughs outloud.]
+Dad: What do you think, Darling? -fontSize=default;
+Mom: I’m worried that if we both go, [protag] will be alone till quite late night.
+Dad: But you want to, don’t you?
+Mom: You know me.
+Dad: And you know that I’m not gonna go alone.
+[Prolonged silence. Mom sighs. The family eats. More specifically, the parents mindlessly eats or plays with the food while the protag finishes his dinner.]
+Protag: Mom? Your soup is cold. Do you want me to help heat it?
+Mom: Oh, it’s okay honey. I’ll do it. And we’ll all speak carefully. Go have some fun.
+Protag: Ok! Don’t eat cold soup, Mom, it’s not good for your health. You always tell me that.
+Mom: I’ll heat it for sure. Thank you honey.
+[Protag leaves. Mom leaves and return with heated soup.]
+Dad: So you’ve made up your mind?
+Mom: We’ll go together. It’s not like we’ll be of any help fretting here.
+Dad: I knew it! And perhaps we can better protect [protag] this way.
+[The two smiles at each other.]
+[Brief CG: The next day, the parents went to the Academy of Pastspeakers. ]
+[End of Prologue P.3.]
+changeScene:prolog4.txt

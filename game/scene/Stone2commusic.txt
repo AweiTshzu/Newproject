@@ -1,0 +1,4 @@
+setTextbox:hide;
+bgm:the-turn-156441.mp3;
+changeBg:Stone2complete.png;
+choose:Check the next stone:Final Sort.txt;

@@ -1,0 +1,5 @@
+callScene:Stone3incom.txt
+setTextbox:on;
+Now I can get the full meaning of this sentence....|drulüsm, muknia youk(has) rankp jiinio(fallen ill) henkdwode rism(day) -fontSize=default;
+What does it mean? -fontSize=default;
+choose:autumn, father has fallen ill for many days:sentence2.2w.txt|winter, sister has fallen ill for many days:sentence2.2w.txt|summer, mother has fallen ill for many days:sentence2.2r.txt|spring, mother I have fallen ill for many days:sentence2.2w.txt;

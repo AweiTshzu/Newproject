@@ -1,3 +1,0 @@
-miniAvatar:Elf icon.png;
-Elias:Bra ! Springa means 'to run' so you are right!  -fontSize=default;
-changeScene:Act 3.1.txt

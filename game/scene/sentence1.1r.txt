@@ -1,0 +1,2 @@
+Yep, that's right -fontSize=default;
+changeScene:sentence1.2.txt

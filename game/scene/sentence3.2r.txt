@@ -1,0 +1,2 @@
+Now it comes to the last incomplete sentence translation... -fontSize=default;
+choose:Decipher the last sentence:sentence3.3.txt;

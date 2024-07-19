@@ -1,0 +1,8 @@
+choose:Pick up the last turtleshell:选择场景文件;
+ -fontSize=default;
+changeBg:居.jpg;
+setTextbox:on;
+What does ' jün'  possibly refer to ? Three people under one roof... -fontSize=default;
+setTextbox:hide;
+
+choose:School :l_4w.txt|House:l_4r.txt|Cave:l_4w.txt|Village:l_4w.txt;

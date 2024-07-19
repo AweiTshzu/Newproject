@@ -1,0 +1,4 @@
+changeBg:00228-1413757421-dungeon, only four steles with ancient scripts, ruin, one stele left, one stele right, one stele in the middle,  one stele in th.png;
+It seems that nothing is here... -fontSize=default;
+setTextbox:hide;
+choose:Go check the scattered turtle shells :f_1.txt;

@@ -1,0 +1,3 @@
+setTextbox:hide;
+changeBg:Stone1.1acom.png;
+changeBg:Stone1.1bcom.png;

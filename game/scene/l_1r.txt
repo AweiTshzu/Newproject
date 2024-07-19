@@ -1,0 +1,2 @@
+Yep, it's right -fontSize=default;
+changeScene:l_2.txt

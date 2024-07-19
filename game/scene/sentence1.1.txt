@@ -1,0 +1,6 @@
+setTextbox:on;
+callScene:Stone2incom.txt
+setTextbox:on;
+What is suppossed to be the right meaning of this sentence?|shüaanyingn, lengkde(cold), yüslwaan(snow) lwos(fall), traanjüann yaos(shine) -fontSize=default;
+ -fontSize=default;
+choose:spring, cold, the snow falls, the stars shine:sentence1.1w.txt|winter, cold, the snow falls, the moon shines:sentence1.1r.txt|autumn, cold, the snow falls, the sun shines:sentence1.1w.txt|autumn, cold, the snow falls, ths moon shines:sentence1.1w.txt;

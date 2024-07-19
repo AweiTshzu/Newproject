@@ -1,0 +1,3 @@
+setTextbox:hide;
+bgm:last-time-178189.mp3;
+changeBg:Stone4complete.png;

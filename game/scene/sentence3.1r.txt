@@ -1,0 +1,2 @@
+Yes, so this happened to the father in this family...  -fontSize=default;
+choose:Decipher the next sentence...:sentence3.2.txt;

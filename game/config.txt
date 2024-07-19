@@ -1,5 +1,5 @@
-Game_name:欢迎使用WebGAL！;
-Game_key:11652d492280db2;
+Game_name:In-Expressible;
+Game_key:a8fd523c68cd0e;
 Package_name:;
-Title_bgm:s_Title.mp3;
-Title_img:nature-3082832_1920.jpg;
+Title_bgm:mysterious-cinematic-background-123833.mp3;
+Title_img:NightmareProtag5.png;

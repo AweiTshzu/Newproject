@@ -1,0 +1,9 @@
+changeBg:00258-4121216061-An underground ancient ruin with scattered turtle shells on the ground. The turtle shells have simple stone carvings on them. Th.png;
+choose:Pick up the turtle shells on the ground:;
+You pick up the first turtle shell -fontSize=default;
+choose:Observe the turtleshell :选择场景文件;
+intro:It looks like someone has drawn a pattern on them and added some text. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+setTextbox:on;
+Which word is most likely to be the correct translation?  -fontSize=default;
+changeBg:苍灵.jpg;
+choose:Kite:f_1w.txt|Spring:f_1r.txt|Blanket:f_1w.txt;

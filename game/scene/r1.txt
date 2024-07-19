@@ -1,0 +1,9 @@
+changeBg:00237-1229003425-dungeon, ruin, ancient civilization, oracle, murals, old, turtle turtle shell,.png;
+setTextbox:on;
+The final clue should be hidden here...| -fontSize=default;
+choose:Pick up the first one...:选择场景文件;
+changeBg:素律.jpg;
+setTextbox:on;
+According to this pattern, 'suslüsn' means... -fontSize=default;
+setTextbox:hide;
+choose:Plant:r1w.txt|Sky :r1w.txt|Autumn :r1r.txt|Tree:r1w.txt;

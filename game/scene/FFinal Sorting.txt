@@ -1,0 +1,3 @@
+changeBg:00209-1056083981-dungeon, four steles with ancient scripts, ruin, one stone left, one stone right, one stone in the middle, ancient civilization,.png;
+Now arrange stones in correct order -fontSize=default;
+choose:3124:FFinalw.txt|3214:FFinalw.txt|4321:FFinalw.txt|2143:FFinalr.txt|2431:FFinalw.txt|Check the stones again :Final Sort.txt|1234:FFinalw.txt|2413:FFinalw.txt;

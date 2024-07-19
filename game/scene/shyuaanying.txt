@@ -1,0 +1,4 @@
+setTextbox:on;
+choose:Check the previous turtle shell again. :选择场景文件;
+changeBg:玄英.jpg;
+'shüaanyingn' .... I just deciphered its right meaning -shu虉aanyingn.mp3 -fontSize=default;

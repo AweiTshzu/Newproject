@@ -1,0 +1,6 @@
+choose:Pick up the last shell:;
+changeBg:柿子.jpg;
+setTextbox:on;
+What does 'sriszi' mean?  -fontSize=default;
+setTextbox:hide;
+choose:Watermelon:r3w.txt|Persimmon:r3r.txt|Tomato:r3w.txt|Cucumber:r3w.txt;

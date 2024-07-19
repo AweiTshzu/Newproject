@@ -1,0 +1,7 @@
+With the meanings of these words, I can decipher this sentence| -fontSize=default;
+callScene:Stone1.1incom.txt
+setTextbox:on;
+wokia(I) yük(and) fusmia bwo(sow) drongkzimio(seeds) likmians(in) tiaanm, hous(afterwards) wokia gwei(return to) jünio。  -fontSize=default;
+What does it mean?  -fontSize=default;
+setTextbox:hide;
+choose:My mother and I sow the seeds in the garden. Afterwards she returns to her room:sentence2.1w.txt|My father and I sow the seeds in the fields. Afterwards I return home:sentence2.1r.txt|My brother and I sow the seeds in the neighbourhoods. Afterwards I return home:sentence2.1w.txt;

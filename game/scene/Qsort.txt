@@ -1,0 +1,2 @@
+Based on the order in which I discovered these stone tablets, the complete translation for tablets one, two, three, and four should be... -fontSize=default;
+changeScene:Final Sort.txt

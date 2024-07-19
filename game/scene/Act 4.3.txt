@@ -1,2 +1,0 @@
-You:Jag vill -fontSize=default;
-choose:Äta mat:Act 5.txt|Dricka vatten:Act 5.txt|Lyssna på musik:Act 5.txt|Springa:Act 5.txt;

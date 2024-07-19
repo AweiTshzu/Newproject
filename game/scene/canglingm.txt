@@ -1,0 +1,4 @@
+setTextbox:on;
+choose:Check the previous turtle shell again. :选择场景文件;
+changeBg:苍灵.jpg;
+'cangliingm' .... I know, it means.... -cangliingm.mp3 -fontSize=default;

@@ -1,0 +1,9 @@
+changeBg:00259-4121216062-An underground ancient ruin with scattered turtle shells on the ground. The turtle shells have simple stone carvings on them. Th.png;
+intro:you walked deeper into the ruin and found another set of turtleshell remains -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+choose:Pick up the turtleshells:;
+setTextbox:on;
+Wait, there are even more turtle shells....|four... -fontSize=default;
+ -fontSize=default;
+changeBg:父母.jpg;
+What does 'mukn yü fusm' mean?  -fontSize=default;
+choose:Sister and Son:l_1w.txt|Cat and Dog:l_1w.txt|Mother and Father:l_1r.txt|Sister and Brother:l_1w.txt;

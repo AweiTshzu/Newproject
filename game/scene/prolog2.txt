@@ -1,0 +1,108 @@
+bgm:none;
+intro:Prologue2 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Ancora Council Hall -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:Every Monday, the chief commander gives an important speech to the junior commanders and people of Ancora, |providing crucial orders and policies regarding the governance and future of this country. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000 -hold;
+bgm:marching-music-congress-hall-by-john-philip-sousa-95344.mp3;
+changeBg:Commander  in the past 1.png;
+: -fontSize=default;
+:Ever since the past, every Monday has been a crucial event for Ancora, with chief commanders delivering important orders and policies.  -fontSize=default;
+setTextbox:on;
+changeBg:Commander in the past 2.png;
+changeBg:Commander in the past 3.png;
+changeBg:Commander Current1.png;
+This Monday marks the first speech after the appointment of the new chief commander, known for his hawkish stance.  -fontSize=default;
+:The new chief commander Leo, recently appointed to lead Ancora, is a seasoned military strategist with a formidable reputation.  -fontSize=default;
+changeBg:Commander Current3.png;
+changeBg:Commander Current3.png;
+:Before his appointment, he served as a general, where he earned accolades for his decisive and often ruthless tactics.  -fontSize=default;
+:Known for his hawkish stance, he has consistently advocated for a strong, uncompromising approach to dealing with neighboring countries in both Europa and Asien.  -fontSize=default;
+changeBg:Commander Current4.png;
+His career has been marked by a series of aggressive maneuvers that have strengthened Ancora's military position but also created considerable tension on the international stage. -fontSize=default;\
+changeBg:Commander listening1.png;
+The junior commanders feel particularly stressed as they anticipate the new commander's directives, knowing his reputation for acting tough on countries in Europa and Asien and his predicted aggressiveness. -fontSize=default;
+changeBg:Commander listening 2.png;
+:In addition to his military prowess, the new chief commander is known for his strict discipline and rigorous expectations.  -fontSize=default;
+:He demands the highest standards of excellence and loyalty from his junior commanders, who often feel the weight of his exacting expectations.  -fontSize=default;
+changeBg:Commander listening3.png;
+:Therefore, his first speech, delivered on a Monday following his appointment, is anticipated with a mix of anxiety and determination,  -fontSize=default;
+:as the junior commanders brace themselves for his directives and the significant changes he is expected to implement. -fontSize=default;
+changeBg:Commander listening 4.png;
+changeBg:Commander speech Guard.png;
+playEffect:Military marching.WAV;
+bgm:none;
+Guard:Attention, everyone! Please welcome our newly appointed chief commander, a distinguished leader known for his strategic brilliance and unwavering resolve.  -fontSize=default;
+He will now address us with his vision for the future of Ancora. -fontSize=default;
+playEffect:Clap of people.WAV;
+setTextbox:hide;
+bgm:Suno Under Grey Skies.mp3;
+changeBg:Commander Current2.png;
+setTextbox:on;
+:[Chief commander begins his speech] -fontSize=default;
+setTextbox:hide;
+changeBg:Commander Current giving a speech1.png;
+setTextbox:on;
+Chief Commander Leo:Ladies and gentlemen, esteemed guests, and fellow citizens, we stand here today on the brink of a new era, an era defined by strength and decisive action.  -fontSize=default;
+changeBg:Commanderlistening5.png;
+Chief Commander Leo:Our great city of Ancora has always been a symbol of power, a bridge between Asien and Europa, and a testament to what we can achieve when we assert our dominance.| -fontSize=default;
+changeBg:Commander listening6.png;
+Chief Commander Leo:As we look towards the future, let us remember the values that have brought us here,  -fontSize=default;
+changeBg:Commander Listening7.png;
+ Power, determination, and innovation. Let us continue to strive for excellence, to push the boundaries of what is possible, and to create a world where Ancora leads with authority. -fontSize=default;
+changeBg:Commander Listening 8.png;
+Together, we will overcome any obstacle, rise above any challenge, and achieve unparalleled greatness. Ancora will continue to shine as a symbol of power and progress, guiding the way for generations to come. -fontSize=default;
+changeBg:Commander Listening 9.png;
+changeBg:Commander Current giving a speech2.png;
+unlockCg:Commander Current giving a speech2.png;
+However, in light of recent hostilities, we cannot ignore the potential for further conflict, which may result in the unnecessary slaughter of countless innocents... -fontSize=default;
+S...S....Slaughter of countless -fontSize=default;
+ in...in...innocents... -fontSize=default;
+: -fontSize=default;
+setTextbox:hide;
+bgm:none
+playEffect:Man gasping.mp3;
+*heavy gasp* -fontSize=default;
+intro:;
+bgm:Suno Relentless Command.mp3;
+setTextbox:on;
+changeBg:选择背景图片;
+changeBg:Commander Current Breath.png;
+:Suddenly, the commander gasps, stumbles. He breathes painfully, foaming at the mouth, and hisses words that cannot be understood. -fontSize=default;
+changeBg:Commander Current Falls.png;
+playEffect:Falldown sound.mp3;
+:Chief Commander loses balance, collapses to the ground, clutching his head in agony as a wave of excruciating pain washes over him. | -fontSize=default;
+changeBg:Commander Current Collapses.png;
+:His face was veined, and his eyes were bloodshot and swollen to the point of almost bursting out of their sockets. -fontSize=default;
+The crowd scatters and descends, -fontSize=default;
+playEffect:Crowd Surprised.WAV;
+:Everyone stares at Commander in horror, as the sight in front of them is so unimaginably eerie and bizarre that no one dares to take a step further. The piercing screaming lasts for seconds -fontSize=default;
+changeBg:Commander Current Dies.png;
+:then, as instantly as it comes, |it ceases, abruptly, Chief Commander is lifeless.  -fontSize=default;
+changeBg:none
+bgm:none
+;commander dies and crowd screaming
+changeBg:none
+intro:You have got home after a whole day in school... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:As you get back from school and arrive home,  -fontSize=default;
+changeBg:LivingRoomWideViewSunset.png;
+:you hear your parents talking softly in their bedroom.  -fontSize=default;
+playEffect:none -volume=15;
+:Faint, strained voices seep through the door. -fontSize=default;
+playEffect:Heartbeat.mp3 -volume=80;
+:Your heart races as you strain to catch every word of the tense conversation between your parents.  -fontSize=default;
+playEffect:none;
+playEffect:Open the Door.wav -volume=20;
+:Whispers drift through the door, carrying rumors of the first victim of the mysterious affliction that has swept through Ancora. -fontSize=default;
+bgm:MidnightDreamMix.mp3;
+Mom:(Whispering) Have you heard about the soul of the unfortunate commander who collapsed today? -fontSize=default;
+Dad:(hushed) Yes, I did. I have an ominous feeling about it, like some taboo has been breached. -fontSize=default;
+You:(whispering to themselves) A taboo? But what could it be? -fontSize=default;
+;protag trying to eavesdrop
+Mom:(worried) I heard they were speaking gibberish, as if their mind had been twisted by some dark magic. -fontSize=default;
+Dad:(grim) It's spreading fast, too. People are afraid to even speak now, fearing they'll fall victim to it themselves. -fontSize=default;
+You: (whispering) This... this can't be happening. -fontSize=default;
+changeBg:none
+bgm:选择背景音乐;
+intro:As the conversation in the next room continues, your thoughts swirl with questions and apprehension. |Little do you know, |you are about to be thrust into a world of danger and mystery, where the power of words holds unimaginable consequences. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000 -hold;
+
+end;
+changeScene:prolog3.txt

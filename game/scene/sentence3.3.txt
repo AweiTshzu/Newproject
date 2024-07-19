@@ -1,0 +1,4 @@
+callScene:Stone1.2incom.txt
+setTextbox:on;
+So what is this sentence referring to? |liingzeen(rain), mouk(not) chiaanyaosm. -fontSize=default;
+choose:Rain, no moon:sentence3.3w.txt|Rain, no sun:sentence3.3r.txt|Rain, no star:sentence3.3w.txt|Rain, no galaxy:sentence3.3w.txt;

@@ -1,0 +1,6 @@
+choose:Pick up the second one...:;
+changeBg:乾耀.jpg;
+setTextbox:on;
+What does 'chiaanyaosm'  mean? -fontSize=default;
+setTextbox:hide;
+choose:Water:r2w.txt|Star:r2w.txt|Galaxy:r2w.txt|Sun:r2r.txt;

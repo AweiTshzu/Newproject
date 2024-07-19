@@ -1,0 +1,5 @@
+choose:Pick up the second turtleshell:选择场景文件;
+changeBg:玄英.jpg;
+What is likely to be the right meaning of this word?  -fontSize=default;
+
+choose:Winter:f_2r.txt|Sky:f_2w.txt|Monster:f_2w.txt|Death:f_2w.txt;

@@ -1,0 +1,5 @@
+I still need to doublecheck this... Even this is the last one... -fontSize=default;
+liingzeen(rain), mouk(not) chiaanyaosm, -鍙ュ瓙3.1.mp3 -fontSize=default;
+callScene:chiaanyaos.txt
+ -chiaanyaos.mp3 -fontSize=default;
+changeScene:sentence3.3.txt

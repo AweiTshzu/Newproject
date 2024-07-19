@@ -1,0 +1,22 @@
+
+intro:Language has power, and malicious language is often the source of many tragedies. |If we could purify it with a force beyond human imagination,|would this world become a better place? -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:What would you do if you have a choice to make that decision?  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+playEffect:mix_1m33s (audio-joiner.com).mp3;
+playVideo:Old Country 3.mp4 -skipOff=true;
+playVideo:Old Country 2.mp4 -skipOff=true;
+playVideo:Old Country 4.mp4 -skipOff=true;
+playVideo:Old Country 1 Final.mp4 -skipOff=true;
+playVideo:Old Country FALL Final.mp4 -skipOff=true;
+playVideo:Intro Video of backgrounds.mp4;
+
+intro:No prosperity lasts forever, |Perhaps the saying 'Speech is silver, silence is golden' is indeed true. |if language has magic power, |would it bring prosperity? |Or Destructoin?  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=5000 -hold;
+choose:Click to continue:选择场景文件;
+playEffect:none;
+changeScene:prolog1.txt
+changeBg:OldCountry City.png;
+changeBg:Old Country City 2.png;
+changeBg:Old Country City3.png;
+changeBg:Old Country City4.png;
+changeBg:Old Country  City5.png;
+changeBg:Old Country City 6.png;
+changeBg:Old Country City 7.png;

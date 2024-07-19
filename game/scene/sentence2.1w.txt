@@ -1,0 +1,9 @@
+No, it doesn't look right... -fontSize=default;
+callScene:fusmia yu muknio.txt
+setTextbox:on;
+ -mukn yu虉k fusm.mp3 -fontSize=default;
+callScene:tiaanm.txt
+setTextbox:on;
+ -tiaanm.mp3 -fontSize=default;
+Let me try to read this again... -鍙ュ瓙2.1.mp3 -fontSize=default;
+changeScene:sentence2.1.txt

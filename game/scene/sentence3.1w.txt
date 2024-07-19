@@ -1,0 +1,6 @@
+No, that doesn't seem to be the right explanation.... -fontSize=default;
+choose:I shoulud check the turtleshells again...:选择场景文件;
+callScene:suslyu.txt
+setTextbox:on;
+ -鍙ュ瓙3.2.mp3 -fontSize=default;
+changeScene:sentence3.1.txt

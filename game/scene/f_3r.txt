@@ -1,0 +1,3 @@
+Yep, that is moon... -fontSize=default;
+intro:Now I can try to decipher this sentence.|| -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+changeScene:sentence1.1.txt

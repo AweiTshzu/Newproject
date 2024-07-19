@@ -1,0 +1,4 @@
+setTextbox:hide;
+bgm:tragedy-and-grief-114593.mp3;
+changeBg:Stone3complete.png;
+choose:Check the next stone:Final Sort.txt;

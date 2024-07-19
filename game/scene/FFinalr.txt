@@ -1,0 +1,9 @@
+changeBg:00210-1056083982-dungeon, four steles with ancient scripts, ruin, one stone left, one stone right, one stone in the middle, ancient civilization,.png;
+callScene:Stone1.1Final.txt
+callScene:Stone1.2Final.txt
+callScene:Stone2Final.txt
+callScene:Stone3Final.txt
+callScene:Stone4Final.txt
+setTextbox:on;
+Yes, this should be the original order of the stones...  -fontSize=default;
+This child lost everything in the end... So what really happened back then?  -fontSize=default;

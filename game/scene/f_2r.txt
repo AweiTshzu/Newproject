@@ -1,0 +1,2 @@
+It seems right  -fontSize=default;
+changeScene:f_3.txt

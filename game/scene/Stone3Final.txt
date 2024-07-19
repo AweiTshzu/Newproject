@@ -1,0 +1,3 @@
+setTextbox:hide;
+bgm:tragedy-and-grief-114593.mp3;
+changeBg:Stone3complete.png;

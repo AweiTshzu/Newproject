@@ -1,0 +1,3 @@
+setTextbox:on;
+That doesn't seem right... -fontSize=default;
+callScene:f_3.txt

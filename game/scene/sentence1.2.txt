@@ -1,0 +1,6 @@
+Now I can try to decipher the second sentence |cangliingm. fuuyaoonia(wind) henk (very) srude(gentle) -fontSize=default;
+callScene:Stone1.1incom.txt
+setTextbox:on;
+What is the right meaning of that sentence ? -fontSize=default;
+setTextbox:hide;
+choose:summer, the wind is very gentle:sentence1.2w.txt|autumn, the wind is very gentle:sentence1.2w.txt|spring, the wind is very gentle:sentence1.2r.txt|winter, the wind is very gentle :sentence1.2w.txt;
